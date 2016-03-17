@@ -2,7 +2,7 @@
 Nama : Yohana F.E. Silalahi<br>
 Kelas : TP-B Pagi<br>
 Nim   : 131113310<br>
-A.	Apakah anda setuju atau tidak dengan pendapat Turing ?<br>
+<b>A.	Apakah anda setuju atau tidak dengan pendapat Turing?</b><br>
 Saya setuju dengan pendapat turing bahwa jika ingin mengetahui apakah mesin dapat bernalar  seperti  manusia  maka  kita  memerlukan  sebuah  permainan  imitasi  yang  mana tujuan dari permainan ini adalah untuk menjebak si interogator agar salah dalam menilai bahwa seseorang yang dimintai pertanyaan tersebut adalah manusia atau sebuah mesin.<br>
 
 B.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?<br>
